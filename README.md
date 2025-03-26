@@ -1,8 +1,6 @@
 <h1 align="center">Привет! 👋, я Илья, full-stack разработчик</h1>
 <h3 align="center">Full-stack разработчик с фокусом на Front-End. У меня более 2 лет опыта в программировании, в том числе работы на фрилансе. Всегда готов к новым вызовам и обучению. Давайте общаться и сотрудничать!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marald12" alt="marald12" /></a> </p>
-
 - 🌱 Любимые фреймворки **NextJS, NestJS**
 
 - 👨‍💻 Часть моих проектов [https://github.com/Marald12?tab=repositories](https://github.com/Marald12?tab=repositories)
