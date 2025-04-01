@@ -11,8 +11,6 @@
 
 - 👨‍💻 Over a year in freelancing
 
-- 📄 Student at Zaporizhzhia Electrotechnical College
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/illiya_zmey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="illiya_zmey" height="30" width="40" /></a>
