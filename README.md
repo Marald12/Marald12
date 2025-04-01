@@ -1,17 +1,17 @@
-<h1 align="center">Привет! 👋, я Илья, full-stack разработчик</h1>
-<h3 align="center">Full-stack разработчик с фокусом на Front-End. У меня более 2 лет опыта в программировании, в том числе работы на фрилансе. Всегда готов к новым вызовам и обучению. Давайте общаться и сотрудничать!</h3>
+<h1 align="center">Hello! 👋, I am Illia Zmii, a full-stack developer</h1>
+<h3 align="center">A full-stack developer focused on Front-End. I have over 2 years of programming experience, including freelance work. Always ready for new challenges and learning. Let's connect and collaborate!</h3>
 
-- 🌱 Любимые фреймворки **NextJS, NestJS**
+- 🌱 Favorite frameworks **NextJS, NestJS**
 
-- 👨‍💻 Часть моих проектов [https://github.com/Marald12?tab=repositories](https://github.com/Marald12?tab=repositories)
+- 👨‍💻 Some of my projects [https://github.com/Marald12?tab=repositories](https://github.com/Marald12?tab=repositories)
 
-- 📫 Электронная почта для связи **youtonlive@gmail.com**
+- 📫 Contact email **youtonlive@gmail.com**
 
-- 📄 Мой опыт **2 года**
+- 📄 My experience **2 years**
 
-- 👨‍💻 Чуть больше года на фрилансе
+- 👨‍💻 Over a year in freelancing
 
-- 📄 Студент РПЗ
+- 📄 Student at Zaporizhzhia Electrotechnical College
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marald12&show_icons=true&locale=en" alt="marald12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marald12&" alt="marald12" /></p>
-
